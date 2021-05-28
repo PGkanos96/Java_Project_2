@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is a text. 2
+=======
+This is a modified text.
+>>>>>>> d3b606adf878bc8969c8312622ae698db98adce6
